@@ -1,8 +1,8 @@
 import asyncio
 from pyrogram import Client,filters,enums
 
-api_id = input('enter api_id\n')
-api_hash = input('enter api_hash\n')
+api_id = input('9157919\n')
+api_hash = input('b90c282e584222babde5f68b5b63ee3b\n')
 sessionstring = input('enter session\n')
 app = Client("acc", session_string = sessionstring, api_id = api_id, api_hash = api_hash)
 
